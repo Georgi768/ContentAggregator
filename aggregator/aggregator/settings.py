@@ -27,6 +27,9 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 # Application definition
+STATICFILES_DIRS = [
+    '/Projects/myContentAggregator/ContentAggregator/aggregator/aggregator/static'
+]
 
 INSTALLED_APPS = [
     'content.apps.ContentConfig',
