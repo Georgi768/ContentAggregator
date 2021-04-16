@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="387a58a7-5a0a-425c-88e3-1a1800158bfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aggregator/Templates/content/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aggregator/content/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aggregator/aggregator/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/aggregator/aggregator/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aggregator/aggregator/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/aggregator/aggregator/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aggregator/content/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/aggregator/content/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aggregator/content/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/aggregator/content/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +44,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618504313320</updated>
-      <workItem from="1618504336914" duration="2476000" />
+      <workItem from="1618504336914" duration="5410000" />
+      <workItem from="1618570118095" duration="2121000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
